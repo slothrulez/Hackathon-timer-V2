@@ -4,17 +4,17 @@ A simple, customizable timer for hackathons. Displays a large countdown on the s
 
 ## How to Use
 
-### 1. Clone the repository :
+#### 1. Clone the repository :
  ```bash
 git clone https://github.com/your-username/hackathon-timer.git
 ```
 
-### 2. Edit the timer duration :
+#### 2. Edit the timer duration :
 
 * Open script.js
 * Find the `timeLeft` variable and set your desired duration
 
-  ### 3. Run the timer :
+#### 3. Run the timer :
 ```bash
 start index.html
 ```
