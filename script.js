@@ -1,4 +1,4 @@
-let timeLeft = 24 * 3600 + 0 * 60 + 0; // _ hours, _ minutes, _ seconds
+let timeLeft = 12 * 3600 + 0 * 60 + 0; // _ hours, _ minutes, _ seconds
 
 function updateTimer() {
   if (timeLeft <= 0) {
